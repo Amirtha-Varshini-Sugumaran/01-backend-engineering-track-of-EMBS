@@ -90,6 +90,10 @@ http://127.0.0.1:8000/docs
 
 ## Running the Project Locally
 
+### Prerequisites
+- Python 3.12+ (you are using 3.14)
+- Docker Desktop running
+
 ### Start PostgreSQL
 ```bash
 docker compose up -d
