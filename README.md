@@ -38,8 +38,8 @@ The backend enforces clear responsibility boundaries between these roles through
 
 ## Expense Lifecycle
 
-submitted → approved
-submitted → rejected
+- submitted → approved
+- submitted → rejected
 
 Rules enforced:
 - Only `submitted` expenses can be approved or rejected
